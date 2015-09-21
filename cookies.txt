@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cameronsworld.net	TRUE	/	FALSE	1999999999	__cfduid	d947ae42b67935014d6475f310c160e551442857037
+.paypalobjects.com	TRUE	/	FALSE	1999999999	PYPF	CT
+
